@@ -19,7 +19,7 @@ I've been working on some modifications to an older fork of this theme, hoping t
 - Updated colors, sizes, and spacing for EmulationStation menu
 - Various aesthetic adjustments
   
-## Pictures
+# Pictures
 
 System View - Light and Dark
 
