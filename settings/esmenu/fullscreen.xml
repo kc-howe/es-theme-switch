@@ -1,0 +1,43 @@
+<!--
+theme name:		Switch
+version:		3.0
+author:			Lilbud
+email:			bvw20002010@gmail.com
+license:		creative commons CC-BY-NC-SA
+based on:       Switch Theme for Launchbox by Grila
+-->
+
+<theme>
+	<formatVersion>7</formatVersion>
+    <view name="menu">
+	
+    <menuBackground name="menubg">
+      <color>000000</color>
+    </menuBackground>
+	
+	<menuText name="menutitle">
+      <fontPath>./assets/A-OTF UD Shin Go Pro R.ttf</fontPath>
+      <fontSize>.03</fontSize>
+      <color>df5132</color>
+    </menuText>
+
+	<menuText name="menutext">
+      <fontPath>./assets/A-OTF UD Shin Go Pro R.ttf</fontPath>
+      <fontSize>.032</fontSize>
+      <color>ffffff</color>
+    </menuText>
+	
+	<menuTextEdit name="menutextedit">
+      <inactive>./assets/dark/textinput_inactive.png</inactive>
+      <active>./assets/dark/textinput_active.png</active>
+    </menuTextEdit>
+	
+	<menuText name="menufooter, menutextsmall">
+      <fontPath>./assets/A-OTF UD Shin Go Pro R.ttf</fontPath>
+      <fontSize>.025</fontSize>		 
+      <color>ffffff</color>
+    </menuText>
+    </view>
+	
+  
+</theme>
