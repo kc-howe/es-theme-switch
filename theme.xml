@@ -217,8 +217,8 @@ based on:       Switch Theme for Launchbox by Grila
     </subset>
 
     <subset name="description" displayName="${descriptionSubsetName}" appliesTo="detailed, video">
+	<include name="no" displayName="${no}">./settings/descriptions/descriptionoff.xml</include>
         <include name="yes" displayName="${yes}">./settings/descriptions/descriptionon.xml</include>
-        <include name="no" displayName="${no}">./settings/descriptions/descriptionoff.xml</include>
     </subset>
 
     <subset name="uppercasesystem" displayName="${uppercaseSubsetName}">
