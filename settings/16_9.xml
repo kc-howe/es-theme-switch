@@ -14,36 +14,38 @@ based on:       Switch Theme for Launchbox by Grila
 
 <!-------------PLAYERS------------------->		
 		<text name="md_lbl_players">
-			<pos>0.657 0.3207</pos>
+			<pos>0.425 0.565</pos>
 		</text>
 		
 		<text name="md_players">
-			<pos>0.80 0.3107</pos>
+			<pos>0.60 0.565</pos>
 		</text>
 <!-------------GENRE--------------------->		
 		<text name="md_lbl_genre">
-			<pos>0.657 0.2705</pos>
+			<pos>0.425 0.615</pos>
 		</text>
 		
 		<text name="md_genre">
-			<pos>0.80 0.2605</pos>
+			<pos>0.60 0.615</pos>
+			<size>0 0</size>
 		</text>
 <!-------------DEVELOPER----------------->		
 		<text name="md_lbl_developer">
-			<pos>0.657 0.170</pos>
+			<pos>0.425 0.665</pos>
 		</text>
 		
 		<text name="md_developer">
-			<pos>0.80 0.190</pos>
-			<size>0.1 0.020</size>
+			<pos>0.60 0.665</pos>
+			<size>0 0</size>
 		</text>
 <!-------------RELEASE------------------->		
 		<datetime name="md_releasedate">
-			<pos>0.80 0.212</pos>
+			<pos>0.60 0.715</pos>
+			<size>0 0</size>
 		</datetime>
 		
 		<text name="md_lbl_releasedate">
-			<pos>0.657 0.222</pos>
+			<pos>0.425 0.715</pos>
 		</text>
 <!-------------LAST PLAYED--------------->		
 		<datetime name="md_lastplayed">

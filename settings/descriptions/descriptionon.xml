@@ -15,16 +15,16 @@ based on:       Switch Theme for Launchbox by Grila
 	<text name="md_description">
 		<forceUppercase>0</forceUppercase>
 		<fontSize>0.025</fontSize>
-		<size>0.309 0.336</size>
-		<pos>0.657 0.387</pos>
+		<size>0.555 0.175</size>
+		<pos>0.425 0.787</pos>
 	</text>
 	</view>
 	
 	<view name="detailed">
 	<image name="md_image">
-		<pos>0.360 0.180</pos>
-		<maxSize>0.277 0.615</maxSize>
-		<origin>0 0</origin>
+		<origin>0.5 0.5</origin>
+		<pos>0.694 0.35</pos>
+		<maxSize>0.3948 0.3508</maxSize>
 	</image>
 	</view>
 	
@@ -32,13 +32,13 @@ based on:       Switch Theme for Launchbox by Grila
 	
 	<image name="md_marquee">
 		<origin>0.5 0.5</origin>
-		<pos>0.494 0.68</pos>
-		<maxSize>0.268 0.228</maxSize>
+		<pos>0.694 0.68</pos>
+		<maxSize>0.2948 0.2508</maxSize>
 	</image>
 	  	  
 	<video name="md_video">
-		<pos>0.494 0.358</pos>
-		<maxSize>0.268 0.367</maxSize>
+		<pos>0.694 0.358</pos>
+		<maxSize>0.2948 0.4037</maxSize>
 		<origin>0.5 0.5</origin>
 		<delay>1.5</delay>
 		<showSnapshotNoVideo>true</showSnapshotNoVideo>
