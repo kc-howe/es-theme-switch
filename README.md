@@ -12,24 +12,36 @@ Built and tested on [AmberELEC](https://AmberELEC.org).
  
 
 # Nintendo Switch Theme for EmulationStation on 480x320 displays
-I've been working on some modifications to an older fork of this theme, hoping to more closely match the look of the Switch system software. Changes include:
-- Updated fonts to match system software
-- Updated colors to match system software
-- Sizing and spacing adjustments to fit RG351 screen sizes
-- Updated colors, sizes, and spacing for EmulationStation menu
-- Various aesthetic adjustments
-  
-# Pictures
+Over the last few days I have been working on this theme further. I updated all the icons a few days ago and decided to update the rest of the theme. 
+
+(Pictures Below)
+
+There are many changes in this newest version, including:
+
+- The Switch Theme no longer has two separate versions. As of this update, the light and dark variants have now been combined into one theme. The colors are toggleable via the theme.xml file. 
+- Colors updated to match system
+- Selector bar has been added. Slim line next to selected game name. 
+- Marquee is now centered under video
+
+Another big thing is the slimming down of the theme. Between the combination of light and dark colors and compression on the tiles, the whole theme is now under 5mb! Also, the memory needed is shrunken as well. You can get away with as little as 20mb of VRAM. Good news to those with full game sets and videos!
+
+Pictures
 
 System View - Light and Dark
 
-![https://imgur.com/of5qFvy.png](https://imgur.com/of5qFvy.png)
-![https://imgur.com/SRKkz8a.png](https://imgur.com/SRKkz8a.png)
+![https://i.imgur.com/aIRWDFB.png](https://i.imgur.com/aIRWDFB.png)
 
-Gamelist View - Light and Dark
-
-![https://imgur.com/2tMrj3N.png](https://imgur.com/2tMrj3N.png)
-![https://imgur.com/lFH18QG.png](https://imgur.com/lFH18QG.png)
+# Jetup13 Changes
+- This fork was desgined for smaller displays that are around 480x320
+- Added Gridview
+- Added more system images and renamed some names
+- Added a clock for supported emulationstation builds
+- Changed font size for system, gamelist, and emulationstation main menu views
+- Changed release date to show only year instead of M/D/Y. This can be changed by removing the line <format>%Y</format> in the theme.xml
+- Added toggle options to switch between theme colors
+- Added toggle option for on-screen help image to turn off or on
+- Added toggle option to force system name to uppercase
+- Added 11 new theme colors (Black, Yellow, Teal, Mint Green, Rose Pink, Red, Dark Crystal, Dark Indigo Crystal, Dark Blue Crystal, Dark Mint Crystal, Dark Red Crystal)
 
 # LOGO NOTICE:
 The used logos and trademarks are copyright of their respective owners.
