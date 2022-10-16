@@ -10,11 +10,24 @@ Built and tested on [AmberELEC](https://AmberELEC.org).
 
 ---
 
-### Pictures
+# Nintendo Switch Theme for EmulationStation on 640x480 displays
+I've been working on some modifications to an older fork of this theme, hoping to more closely match the look of the Switch system software. Changes include:
+- Updated fonts to match system software
+- Updated colors to match system software
+- Sizing and spacing adjustments to fit 640x480 screen sizes
+- Updated colors, sizes, and spacing for EmulationStation menu
+- Various aesthetic adjustments
+
+Pictures
 
 System View - Light and Dark
 
-![https://i.imgur.com/aIRWDFB.png](https://i.imgur.com/aIRWDFB.png)
+![https://imgur.com/of5qFvy.png](https://imgur.com/of5qFvy.png)
+![https://imgur.com/SRKkz8a.png](https://imgur.com/SRKkz8a.png)
 
+Gamelist View - Light and Dark
+
+![https://imgur.com/2tMrj3N.png](https://imgur.com/2tMrj3N.png)
+![https://imgur.com/lFH18QG.png](https://imgur.com/lFH18QG.png)
 # LOGO NOTICE:
 The used logos and trademarks are copyright of their respective owners.
